@@ -1,0 +1,3 @@
+open termial
+cd Desktop/VTPAI07_2021/CODE/VTPAI07_2021
+python app.py
